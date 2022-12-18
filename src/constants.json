@@ -1,0 +1,98 @@
+{
+  "full_name": "ALIREZA YARMAHMOODI",
+  "profession": "Frontend Developer",
+  "social_networks": {
+    "linkedin": "https://www.linkedin.com/in/alireza-yarmahmoodi-308053118/",
+    "github": "https://github.com/Alireza8709"
+  },
+  "show_avatar": true,
+  "description": "I'm a Frontend Developer, currently working at Publicis Sapient, a company which helps other companies and the public sector keep up with the pace of technological, societal and cultural change, all while meeting the demands and expectations of their customers. I have around 2 years of experience in software development. My aim is to enhance user experience and create new values in addition to delivering a clean scalable code, by being closely in touch with the end-users.",
+  "resume_link": "https://drive.google.com/file/d/1kWmTQYGYh6zDzy2T89of9O4MjkHJjAa9/view?usp=share_link",
+  "experiences": [
+    {
+      "company": "Publicis Sapient – Stockholm",
+      "date": "Sep 2021 - Present",
+      "profession": "Frontend Developer",
+      "description": "Technologies that I actively use as Frontend developer:",
+      "bullets": [
+        "Bug fixing and develop new features using JavaScript, TypeScript, React technologies, HTML and CSS",
+        "Perform pair programing sessions with the members of the team in order to gain knowledge about the components and modules",
+        "Meetings with UX team to implement features based on sketches",
+        "Interacting with the developers to communicate the defects using Jira, confluence, bitbucket and GitHub",
+        "Work with different services and features using REST API and GraphQL"
+      ]
+    },
+    {
+      "company": "Resources Nordics - Gothenburg",
+      "date": "Feb 2017 - Sep 2021 · 4 yrs 8 mos",
+      "profession": "IT-Administrator",
+      "description": "I was responsible for assisting with faulty computers up to the implementation of various projects, auditing and restructuring Active Directory, migrating Exchange user accounts via Azure to Office365 etc. I was also responsible for all IT equipment purchases. Systems that I actively use as system administrator:",
+      "bullets": [
+        "Service Desk support",
+        "Active Directory",
+        "Windows Server",
+        "Azure Active Directory",
+        "Microsoft Office 365",
+        "SCCM",
+        "Adobe Admin Console"
+      ]
+    },
+    {
+      "company": "Lokalguide sweden AB - Gothenburg",
+      "date": "Mar 2014 - Oct 2014 · 8 mos",
+      "profession": "Developer and Tester Intern",
+      "description": "My responsibilities were:",
+      "bullets": [
+        "Getting acquainted with the architecture and the development structure",
+        "Test different scenarios based on product owner and developers",
+        "Creating documentation of the user’s feed"
+      ]
+    },
+    {
+      "company": "Petro (Gas Oil) - Iran",
+      "date": "2011 - 2013 · 2 yrs",
+      "profession": "IT engineer",
+      "description": "The department store was part of various Petro projects that produce oil and gas refineries. The IT department was one of those that handles financial services and HR in the group. I worked as an IT engineer, which meant managing the department in an efficient and consistent way:",
+      "bullets": [
+        "Bug fixing and develop new features using HTML and JavaScript",
+        "Decreased latency by using a push-based system instead of an older pull based one",
+        "Management of permissions",
+        "Computer / mail account setup"
+      ]
+    },
+    {
+      "company": "Shariaty Technical College IT department - Iran",
+      "date": "Jun 2006 - Aug 2006 · 3 mos",
+      "profession": "IT support",
+      "description": "IT- department is a part of Shariaty Technical College, which provides service and maintenance of IT hardware, software and network in university. My responsibilities included:",
+      "bullets": [
+        "Hardware support",
+        "Maintenance and network operation"
+      ]
+    }
+  ],
+  "educations": [
+    {
+      "academy": "Azad University of Amol - Iran",
+      "date": "2011 - 2012 · 2 yrs",
+      "major": "Master degree of Industrial Management"
+    },
+    {
+      "academy": "Azad University of Zanjan - Iran",
+      "date": "Sep 2005 - Jun 2010 · 5 yrs",
+      "major": "Bachelor degree of IT Engineering"
+    }
+  ],
+  "colors": {
+    "text-1": "#333",
+    "text-2": "#666",
+    "text-3": "#aaa",
+    "primary": "#54ca95",
+    "primary-hover": "#4ec08d",
+    "background-color-1": "white",
+    "background-color-2": "white",
+    "background-color-3": "rgb(245, 255, 251)",
+    "scroll-bar": "#cacaca",
+    "scroll-bar-hover": "#b4b4b4"
+  }
+}
